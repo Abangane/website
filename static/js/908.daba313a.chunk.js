@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkabangane=self.webpackChunkabangane||[]).push([[908],{908:function(n,e,a){a.r(e);a(2791);var t=a(6907),s=a(184);e.default=function(){return(0,s.jsxs)("div",{children:[(0,s.jsxs)(t.ql,{children:[(0,s.jsx)("title",{children:"Page Not Found| Abangane"}),(0,s.jsx)("meta",{name:"description",content:"Abangane Platforms. Mental Health Champions"})]}),"Page Not Found"]})}}}]);
+//# sourceMappingURL=908.daba313a.chunk.js.map
